@@ -1,0 +1,125 @@
+{
+    "Mapa de paràmetres": {
+        "Tasca": [
+            {
+                "nombre": "S'han identificat les paraules claus",
+                "maximo": 10,
+                "ponderacion": 0.25
+            },
+            {
+                "nombre": "S'han proposat paraules en relació a les paraules clau i s'han dut a terme relacions entre elles",
+                "maximo": 10,
+                "ponderacion": 0.25
+            },
+            {
+                "nombre": "S'han creat grups o subgrups de paraules",
+                "maximo": 10,
+                "ponderacion": 0.25
+            },
+            {
+                "nombre": "S'han representat les paraules en un mapa en forma d'arbre",
+                "maximo": 10,
+                "ponderacion": 0.20
+            },
+            {
+                "nombre": "S'han utilitzat eines digitals per la representació del mapa de paràmetres",
+                "maximo": 10,
+                "ponderacion": 0.05
+            }
+        ],
+        "Puntuació": {
+            "No asoleix (0)": 0,
+            "Asoleix (2.5)": 2.5,
+            "Fluix (5)": 5,
+            "Bo (7.5)": 7.5,
+            "Excellent (10)": 10
+        }
+    },
+    "Mapa d'idees": {
+        "Tasca": [
+            {
+                "nombre": "Generació d'idees",
+                "maximo": 10,
+                "ponderacion": 0.143
+            },
+            {
+                "nombre": "Paraules inconnexes",
+                "maximo": 10,
+                "ponderacion": 0.143
+            },
+            {
+                "nombre": "Preguntes (8)",
+                "maximo": 10,
+                "ponderacion": 0.143
+            },
+            {
+                "nombre": "Pluja d'idees",
+                "maximo": 10,
+                "ponderacion": 0.143
+            },
+            {
+                "nombre": "Contingut majoritari de les idees",
+                "maximo": 10,
+                "ponderacion": 0.143
+            },
+            {
+                "nombre": "Classificacio de les idees",
+                "maximo": 10,
+                "ponderacion": 0.143
+            },
+            {
+                "nombre": "Selecció",
+                "maximo": 10,
+                "ponderacion": 0.143
+            }
+        ],
+        "Puntuació": {
+            "No asoleix (0)": 0,
+            "Asoleix (2.5)": 2.5,
+            "Fluix (5)": 5,
+            "Bo (7.5)": 7.5,
+            "Excellent (10)": 10
+        }
+    },
+    "Estudi del prototip": {
+        "Tasca": [
+            {
+                "nombre": "Concepte",
+                "maximo": 10,
+                "ponderacion": 0.20
+            },
+            {
+                "nombre": "Material",
+                "maximo": 10,
+                "ponderacion": 0.15
+            },
+            {
+                "nombre": "Preguntes de validació",
+                "maximo": 10,
+                "ponderacion": 0.20
+            },
+            {
+                "nombre": "Pas a pas",
+                "maximo": 10,
+                "ponderacion": 0.20
+            },
+            {
+                "nombre": "Divisió de tasques",
+                "maximo": 10,
+                "ponderacion": 0.20
+            },
+            {
+                "nombre": "Respostes de validació",
+                "maximo": 10,
+                "ponderacion": 0.05
+            }
+        ],
+        "Puntuació": {
+            "No asoleix (0)": 0,
+            "Asoleix (2.5)": 2.5,
+            "Fluix (5)": 5,
+            "Bo (7.5)": 7.5,
+            "Excellent (10)": 10
+        }
+        }
+    }
